@@ -5,11 +5,11 @@
 
 
 ### Top Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis1ribeiro&layout=compact&theme=radical&langs_count=8)](https://github.com/luis1ribeiro/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis1ribeiro&layout=compact&theme=react&langs_count=8)](https://github.com/luis1ribeiro/)
 ----------------------------------------
 
 ### My Github Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=luis1ribeiro&show_icons=true&theme=radical)](https://github.com/luis1ribeiro/)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=luis1ribeiro&show_icons=true&theme=react)](https://github.com/luis1ribeiro/)
 
 ----------------------------------------
 
