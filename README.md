@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/luis1ribeiro/luis1ribeiro/blob/main/images/hand_wave.gif" height="50">
+### Hi there <img src="https://github.com/luis1ribeiro/luis1ribeiro/blob/main/images/hand_wave.gif" height="20">
 
 - I’m Luís Mário, a software engineeer based in Braga, Portugal.
 - I graduated from University of Minho and now I am taking my master's in **Language Processing** and **Formal Methods**.
