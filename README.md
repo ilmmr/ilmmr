@@ -5,7 +5,7 @@
 💻 I recently graduated from University of Minho and got a MSc in **Language Processing** and **Formal Methods**.
 
 <a target="_blank" href="https://lmmr.vercel.app/">
-  <img align="left" alt="Portfolio" width="30px" src="http://www.ufpb.br/inova/contents/imagens/portfolio.png" />
+  <img align="left" alt="Portfolio" width="30px" src="https://images.vexels.com/media/users/3/205387/isolated/preview/9e5a4a16e78a187fc3e47fc6e2c5f03a-internet-website-icon-stroke.png" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/lmmribeiro/">
   <img align="left" alt="LinkedIN" width="30px" src="https://github.com/Zayts3v/Zayts3v/blob/main/LinkedIN.svg" />
