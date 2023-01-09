@@ -9,7 +9,7 @@
 </a>
 <a target="_blank" href="mailto:lmmr_@outlook.pt">
   <img align="left" alt="Mail" width="30px" src="https://github.com/Zayts3v/Zayts3v/blob/main/Outlook.svg" />
-</a>
+</a><br>
 
 -------------------
 
