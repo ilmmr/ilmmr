@@ -1,9 +1,10 @@
 ### Hi there <img src="https://github.com/luis1ribeiro/luis1ribeiro/blob/main/images/hand_wave.gif" height="30">
 
-😎 I’m Luís Mário, an informatics engineeer based in Braga, Portugal.
+😎 I’m Luís Mário, an engineer grad based in Braga, Portugal.
 
-💻 I recently graduated from University of Minho and got a MSc in **Language Processing** and **Formal Methods**.
+💻 I recently graduated from University of Minho and got a MSc in **Software Engineering**.
 
+<div display="flex" justify-content="flex-end">
 <a target="_blank" href="https://lmmr.vercel.app/">
   <img align="left" alt="Portfolio" width="30px" src="https://images.vexels.com/media/users/3/205387/isolated/preview/9e5a4a16e78a187fc3e47fc6e2c5f03a-internet-website-icon-stroke.png" />
 </a>
@@ -12,7 +13,7 @@
 </a>
 <a target="_blank" href="mailto:lmmr_@outlook.pt">
   <img align="left" alt="Mail" width="30px" src="https://github.com/Zayts3v/Zayts3v/blob/main/Outlook.svg" />
-</a><br>
+</a></div>
 
 
 <!-- 
