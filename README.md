@@ -4,7 +4,7 @@
 
 💻 I recently graduated from University of Minho and got a MSc in **Software Engineering**.
 
-<section display="flex" justify-content="flex-end">
+<div style="text-align: right">
 <a target="_blank" href="https://lmmr.vercel.app/">
   <img alt="Portfolio" width="30px" src="https://images.vexels.com/media/users/3/205387/isolated/preview/9e5a4a16e78a187fc3e47fc6e2c5f03a-internet-website-icon-stroke.png" />
 </a>
@@ -13,7 +13,7 @@
 </a>
 <a target="_blank" href="mailto:lmmr_@outlook.pt">
   <img alt="Mail" width="30px" src="https://github.com/Zayts3v/Zayts3v/blob/main/Outlook.svg" />
-</a></section>
+</a></div>
 
 
 <!-- 
