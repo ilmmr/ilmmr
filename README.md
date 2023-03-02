@@ -1,8 +1,6 @@
 ### Hi there <img src="https://github.com/luis1ribeiro/luis1ribeiro/blob/main/images/hand_wave.gif" height="30">
 
-😎 I’m Luís Mário, an engineer grad based in Braga, Portugal.
-
-💻 I recently graduated from University of Minho and got a MSc in **Software Engineering**.
+😎 I’m Luís Mário, a Formal Methods enthusiast. WELCOME!
 
 <div style="display:flex; justify-content:flex-end;">
 <a target="_blank" href="https://lmmr.vercel.app/">
