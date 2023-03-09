@@ -3,5 +3,5 @@
 <br/><b>> Leslie Lamport </b><br/>
 
 
-[![ilmmr's github stats](https://github-readme-stats.vercel.app/api?username=ilmmr&theme=radical)](https://github.com/illmr)
+[![ilmmr's github stats](https://github-readme-stats.vercel.app/api?username=ilmmr&theme=calm)](https://github.com/illmr)
 
